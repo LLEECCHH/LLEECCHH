@@ -1,2 +1,2 @@
 ## Hi there 👋
-- I'm currently studying in Higher School of Economics, Information Security
+- I'm currently studying Information Security at Higher School of Economics
